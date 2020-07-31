@@ -8,3 +8,4 @@ algorithm cookbook
 3. [链表](./linked-list.ipynb)
 4. [两数相加](./two-sum.ipynb)
 5. [Fibonacci Number - 509](./Fibonacci-Number.ipynb)
+6. [Running Sum of 1d Array - 1480](./Running-Sum-of-1d-Array.ipynb)
