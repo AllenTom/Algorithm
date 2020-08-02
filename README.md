@@ -10,3 +10,4 @@ algorithm cookbook
 5. [Fibonacci Number - 509](./Fibonacci-Number.ipynb)
 6. [Running Sum of 1d Array - 1480](./Running-Sum-of-1d-Array.ipynb)
 7. [Create Target Array in the Given Order - 1389](./Create Target Array in the Given Order.ipynb)
+8. [Count Number of Teams - 1395](./Count Number of Teams.ipynb)
