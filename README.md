@@ -13,3 +13,4 @@ algorithm cookbook
 8. [Count Number of Teams - 1395](./Count-Number-of-Teams.ipynb)
 9. [Maximum Subarray - 53](./Maximum-Subarray.ipynb)
 9. [Can Make Arithmetic Progression From Sequence - 1502](./Can-Make-Arithmetic-Progression-From-Sequence.ipynb)
+9. [Count Good Triplets - 1534](./Count-Good-Triplets.ipynb)
