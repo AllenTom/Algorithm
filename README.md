@@ -12,5 +12,6 @@ algorithm cookbook
 7. [Create Target Array in the Given Order - 1389](./Create-Target-Array-in-the-Given-Order.ipynb)
 8. [Count Number of Teams - 1395](./Count-Number-of-Teams.ipynb)
 9. [Maximum Subarray - 53](./Maximum-Subarray.ipynb)
-9. [Can Make Arithmetic Progression From Sequence - 1502](./Can-Make-Arithmetic-Progression-From-Sequence.ipynb)
-9. [Count Good Triplets - 1534](./Count-Good-Triplets.ipynb)
+10. [Can Make Arithmetic Progression From Sequence - 1502](./Can-Make-Arithmetic-Progression-From-Sequence.ipynb)
+11. [Count Good Triplets - 1534](./Count-Good-Triplets.ipynb)
+12. [Make Two Arrays Equal by Reversing Sub-arrays - 1460](./Make-Two-Arrays-Equal-by-Reversing-Sub-arrays.ipynb)
