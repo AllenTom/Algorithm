@@ -15,3 +15,5 @@ algorithm cookbook
 10. [Can Make Arithmetic Progression From Sequence - 1502](./Can-Make-Arithmetic-Progression-From-Sequence.ipynb)
 11. [Count Good Triplets - 1534](./Count-Good-Triplets.ipynb)
 12. [Make Two Arrays Equal by Reversing Sub-arrays - 1460](./Make-Two-Arrays-Equal-by-Reversing-Sub-arrays.ipynb)
+13. [Duplicate Zeros - 1089](./Duplicate-Zeros.ipynb)
+14. [Plus One - 1089](./Plus-One.ipynb)
