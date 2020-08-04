@@ -7,6 +7,8 @@ algorithm cookbook
 2. [最大前缀子串](./public-prefix.ipynb)
 3. [链表](./linked-list.ipynb)
 4. [两数相加](./two-sum.ipynb)
+
+##  Array
 5. [Fibonacci Number - 509](./Fibonacci-Number.ipynb)
 6. [Running Sum of 1d Array - 1480](./Running-Sum-of-1d-Array.ipynb)
 7. [Create Target Array in the Given Order - 1389](./Create-Target-Array-in-the-Given-Order.ipynb)
@@ -20,3 +22,5 @@ algorithm cookbook
 15. [Third Maximum Number - 414](./Third-Maximum-Number.ipynb)
 16. [Shuffle the Array - 1470](./Shuffle-the-Array.ipynb)
 17. [Kids With the Greatest Number of Candies - 1431](./Kids-With-the-Greatest-Number-of-Candies.ipynb)
+18. [Number of Good Pairs - 1512](./Number-of-Good-Pairs.ipynb)
+19. [Reveal Cards In Increasing Order - 950](./Reveal-Cards-In-Increasing-Order.ipynb)
