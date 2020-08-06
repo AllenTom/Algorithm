@@ -3,10 +3,10 @@ algorithm cookbook
 
 ## Category
 
-1. [数组元素移动](./array-offset.ipynb)
-2. [最大前缀子串](./public-prefix.ipynb)
-3. [链表](./linked-list.ipynb)
-4. [两数相加](./two-sum.ipynb)
+## 基础
+
+1. [链表](./linked-list.ipynb)
+
 
 ##  Array
 1. [Fibonacci Number - 509](./Fibonacci-Number.ipynb)
@@ -26,3 +26,11 @@ algorithm cookbook
 15. [Reveal Cards In Increasing Order - 950](./Reveal-Cards-In-Increasing-Order.ipynb)
 16. [Subsets - 78](./Subsets.ipynb)
 17. [Range Sum of Sorted Subarray Sums - 1508](./Range-Sum-of-Sorted-Subarray-Sums.ipynb)
+18. [Combination Sum - 39](./Combination-Sum.ipynb)
+19. [Search Insert Position - 35](./Search-Insert-Position.ipynb)
+20. [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K - 1414](./Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K.ipynb)
+
+## 其他
+1. [数组元素移动](./array-offset.ipynb)
+2. [最大前缀子串](./public-prefix.ipynb)
+3. [两数相加](./two-sum.ipynb)
