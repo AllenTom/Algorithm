@@ -34,3 +34,4 @@ algorithm cookbook
 1. [数组元素移动](./array-offset.ipynb)
 2. [最大前缀子串](./public-prefix.ipynb)
 3. [两数相加](./two-sum.ipynb)
+4. [Number of Steps to Reduce a Number to Zero - 1342](./Number-of-Steps-to-Reduce-a-Number-to-Zero.ipynb)
