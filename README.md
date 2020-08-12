@@ -29,11 +29,16 @@ algorithm cookbook
 18. [Combination Sum - 39](./Combination-Sum.ipynb)
 19. [Search Insert Position - 35](./Search-Insert-Position.ipynb)
 20. [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K - 1414](./Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K.ipynb)
+21. [Merge Intervals - 56](./Merge-Intervals.ipynb)
+22. [Pancake Sorting - 969](./Pancake-Sorting.ipynb)
 
 ## Greedy
 1. [Lemonade Change - 860](./Lemonade-Change.ipynb)
 2. [Water Bottles - 1518](./Water-Bottles.ipynb)
 3. [Split a String in Balanced Strings - 1221](./Split-a-String-in-Balanced-Strings.ipynb)
+
+## String
+1. [Number of Good Ways to Split a String - 1525](./Number-of-Good-Ways-to-Split-a-String.ipynb)
 ## 其他
 1. [数组元素移动](./array-offset.ipynb)
 2. [最大前缀子串](./public-prefix.ipynb)
