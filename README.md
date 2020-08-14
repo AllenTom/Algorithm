@@ -31,6 +31,9 @@ algorithm cookbook
 20. [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K - 1414](./Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K.ipynb)
 21. [Merge Intervals - 56](./Merge-Intervals.ipynb)
 22. [Pancake Sorting - 969](./Pancake-Sorting.ipynb)
+23. [Array Partition I - 561](./Array-Partition-I.ipynb)
+24. [Consecutive Characters - 1446](./Consecutive-Characters.ipynb)
+25. [Decrypt String from Alphabet to Integer Mapping - 1309](./Decrypt-String-from-Alphabet-to-Integer-Mapping.ipynb)
 
 ## Greedy
 1. [Lemonade Change - 860](./Lemonade-Change.ipynb)
