@@ -42,6 +42,11 @@ algorithm cookbook
 
 ## String
 1. [Number of Good Ways to Split a String - 1525](./Number-of-Good-Ways-to-Split-a-String.ipynb)
+
+## Tree
+1. [Increasing Order Search Tree - 897](./Increasing-Order-Search-Tree.ipynb)
+2. [N-ary Tree Postorder Traversal - 590](./N-ary-Tree-Postorder-Traversal.ipynb)
+3. [N-ary Tree Preorder Traversal - 589](./N-ary-Tree-Preorder-Traversal.ipynb)
 ## 其他
 1. [数组元素移动](./array-offset.ipynb)
 2. [最大前缀子串](./public-prefix.ipynb)
