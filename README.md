@@ -34,7 +34,7 @@ algorithm cookbook
 23. [Array Partition I - 561](./Array-Partition-I.ipynb)
 24. [Consecutive Characters - 1446](./Consecutive-Characters.ipynb)
 25. [Decrypt String from Alphabet to Integer Mapping - 1309](./Decrypt-String-from-Alphabet-to-Integer-Mapping.ipynb)
-
+26. [Maximum Number of Balloons - 1189](./Maximum-Number-of-Balloons.ipynb)
 ## Greedy
 1. [Lemonade Change - 860](./Lemonade-Change.ipynb)
 2. [Water Bottles - 1518](./Water-Bottles.ipynb)
