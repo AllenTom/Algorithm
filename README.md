@@ -47,6 +47,7 @@ algorithm cookbook
 1. [Increasing Order Search Tree - 897](./Increasing-Order-Search-Tree.ipynb)
 2. [N-ary Tree Postorder Traversal - 590](./N-ary-Tree-Postorder-Traversal.ipynb)
 3. [N-ary Tree Preorder Traversal - 589](./N-ary-Tree-Preorder-Traversal.ipynb)
+4. [Merge Two Binary Trees - 617](./Merge-Two-Binary-Trees.ipynb)
 ## 其他
 1. [数组元素移动](./array-offset.ipynb)
 2. [最大前缀子串](./public-prefix.ipynb)
