@@ -49,6 +49,7 @@ algorithm cookbook
 3. [N-ary Tree Preorder Traversal - 589](./N-ary-Tree-Preorder-Traversal.ipynb)
 4. [Merge Two Binary Trees - 617](./Merge-Two-Binary-Trees.ipynb)
 5. [Univalued Binary Tree - 965](./Univalued-Binary-Tree.ipynb)
+6. [Maximum Depth of N-ary Tree - 559](./Maximum-Depth-of-N-ary-Tree.ipynb)
 ## 其他
 1. [数组元素移动](./array-offset.ipynb)
 2. [最大前缀子串](./public-prefix.ipynb)
