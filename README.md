@@ -34,6 +34,8 @@ algorithm cookbook
 23. [Array Partition I - 561](./Array-Partition-I.ipynb)
 24. [Consecutive Characters - 1446](./Consecutive-Characters.ipynb)
 25. [Decrypt String from Alphabet to Integer Mapping - 1309](./Decrypt-String-from-Alphabet-to-Integer-Mapping.ipynb)
+26. [数组元素移动](./array-offset.ipynb)
+
 ## Greedy
 1. [Lemonade Change - 860](./Lemonade-Change.ipynb)
 2. [Water Bottles - 1518](./Water-Bottles.ipynb)
@@ -50,7 +52,6 @@ algorithm cookbook
 5. [Univalued Binary Tree - 965](./Univalued-Binary-Tree.ipynb)
 6. [Maximum Depth of N-ary Tree - 559](./Maximum-Depth-of-N-ary-Tree.ipynb)
 ## 其他
-1. [数组元素移动](./array-offset.ipynb)
-2. [最大前缀子串](./public-prefix.ipynb)
-3. [两数相加](./two-sum.ipynb)
-4. [Number of Steps to Reduce a Number to Zero - 1342](./Number-of-Steps-to-Reduce-a-Number-to-Zero.ipynb)
+1. [最大前缀子串](./public-prefix.ipynb)
+2. [两数相加](./two-sum.ipynb)
+3. [Number of Steps to Reduce a Number to Zero - 1342](./Number-of-Steps-to-Reduce-a-Number-to-Zero.ipynb)
