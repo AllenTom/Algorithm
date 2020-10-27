@@ -34,7 +34,8 @@ algorithm cookbook
 23. [Array Partition I - 561](./Array-Partition-I.ipynb)
 24. [Consecutive Characters - 1446](./Consecutive-Characters.ipynb)
 25. [Decrypt String from Alphabet to Integer Mapping - 1309](./Decrypt-String-from-Alphabet-to-Integer-Mapping.ipynb)
-26. [Maximum Number of Balloons - 1189](./Maximum-Number-of-Balloons.ipynb)
+26. [数组元素移动](./array-offset.ipynb)
+
 ## Greedy
 1. [Lemonade Change - 860](./Lemonade-Change.ipynb)
 2. [Water Bottles - 1518](./Water-Bottles.ipynb)
@@ -42,13 +43,15 @@ algorithm cookbook
 
 ## String
 1. [Number of Good Ways to Split a String - 1525](./Number-of-Good-Ways-to-Split-a-String.ipynb)
-
+2. [Maximum Number of Balloons - 1189](./Maximum-Number-of-Balloons.ipynb)
 ## Tree
 1. [Increasing Order Search Tree - 897](./Increasing-Order-Search-Tree.ipynb)
 2. [N-ary Tree Postorder Traversal - 590](./N-ary-Tree-Postorder-Traversal.ipynb)
 3. [N-ary Tree Preorder Traversal - 589](./N-ary-Tree-Preorder-Traversal.ipynb)
+4. [Merge Two Binary Trees - 617](./Merge-Two-Binary-Trees.ipynb)
+5. [Univalued Binary Tree - 965](./Univalued-Binary-Tree.ipynb)
+6. [Maximum Depth of N-ary Tree - 559](./Maximum-Depth-of-N-ary-Tree.ipynb)
 ## 其他
-1. [数组元素移动](./array-offset.ipynb)
-2. [最大前缀子串](./public-prefix.ipynb)
-3. [两数相加](./two-sum.ipynb)
-4. [Number of Steps to Reduce a Number to Zero - 1342](./Number-of-Steps-to-Reduce-a-Number-to-Zero.ipynb)
+1. [最大前缀子串](./public-prefix.ipynb)
+2. [两数相加](./two-sum.ipynb)
+3. [Number of Steps to Reduce a Number to Zero - 1342](./Number-of-Steps-to-Reduce-a-Number-to-Zero.ipynb)
