@@ -51,6 +51,7 @@ algorithm cookbook
 4. [Merge Two Binary Trees - 617](./Merge-Two-Binary-Trees.ipynb)
 5. [Univalued Binary Tree - 965](./Univalued-Binary-Tree.ipynb)
 6. [Maximum Depth of N-ary Tree - 559](./Maximum-Depth-of-N-ary-Tree.ipynb)
+7. [Reduce Array Size to The Half - 1338](./Reduce-Array-Size-to-The-Half.ipynb)
 ## 其他
 1. [最大前缀子串](./public-prefix.ipynb)
 2. [两数相加](./two-sum.ipynb)
